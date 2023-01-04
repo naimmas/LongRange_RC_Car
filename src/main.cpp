@@ -10,7 +10,6 @@
 // TODO:  GPS guiding codes
 // TODO:  GS communication codes
 
-
 void setup() {
   // put your setup code here, to run once:
 }

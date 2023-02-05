@@ -5,7 +5,6 @@
 // TODO:  Compass reading codes
 // TODO:  IMU reading codes
 // TODO:  IMU + Compass fusion
-// TODO:  Motor control codes
 // TODO:  RC remote control
 // TODO:  GPS guiding codes
 // TODO:  GS communication codes
@@ -75,7 +74,7 @@ void setup()
 
 void loop()
 { 
-
+ 
 }
 
 void motorBackward(int motorIndex, int speed)
